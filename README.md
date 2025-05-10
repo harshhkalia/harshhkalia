@@ -1,4 +1,4 @@
-<h4 align="left">"Hi 👋! I'm Harsh, currently studying BCA at SVSD College, Bhatoli. Passionate about programming, I aspire to become a full stack web developer. I'm proficient in languages like HTML, CSS, and JavaScript, and I'm actively learning frameworks like React and Node.js. On my GitHub profile, you'll find a collection of projects that showcase my skills and interests in web development. Excited to continue learning and growing in this field!"</h4>
+<h4 align="left">"Hi 👋! I'm Harsh, a passionate web developer with a strong interest in full-stack development using the MERN stack. I'm currently seeking job opportunities where I can contribute to building scalable web applications. I work comfortably on both client and server sides, love developing and integrating RESTful APIs, and also have some basic experience with web scraping. My GitHub profile showcases projects that reflect my skills, curiosity, and drive to grow continuously in the tech field!"</h4>
 
 ###
 
